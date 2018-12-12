@@ -5,7 +5,7 @@
  */
 package mybignumber;
 import static java.lang.Double.max;
-import java.util.*;
+import java.util.Scanner;
 /**
  *
  * @author TrumAsia
